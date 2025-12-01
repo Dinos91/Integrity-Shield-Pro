@@ -1,0 +1,25 @@
+# Тимчасові файли Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Віртуальне середовище
+venv/
+env/
+
+# Файли збірки PyInstaller
+build/
+dist/
+*.spec
+
+# Локальні файли програми (база, налаштування, ключі)
+integrity.db
+integrity.db-shm
+integrity.db-wal
+config.json
+secret.key
+security_audit.json
+.shadow_copies/
+
+# Файл з паролями (ми створимо його копію)
+core_private.py

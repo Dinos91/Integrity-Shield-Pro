@@ -1,0 +1,6 @@
+```text
+customtkinter
+watchdog
+cryptography
+pystray
+Pillow
